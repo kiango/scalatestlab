@@ -1,5 +1,5 @@
 
-// Tuples hold values of different Types and are immutable
+// Tuples holds values of different Types and are immutable
 
 object TuplesUtil{
     def main(args: Array[String]){
