@@ -1,0 +1,14 @@
+# Ignore everything
+#/**/*.class
+*.class
+
+
+# But not these files...
+#!.gitignore
+#!*.scala
+#!README.md
+#!scala/avp/*.R
+#!data_science/edx/Mod1/*.R
+#!data_science/edx/Mod2/*.R
+#!data_science/edx/Mod3/*.R
+#!data_science/edx/Mod4/*.R
